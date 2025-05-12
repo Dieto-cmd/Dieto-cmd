@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paweł Urban</h1>
+<h1 align="center">Hi ✌️, I'm Paweł Urban</h1>
 <h3 align="center">Electronics and Telecommunication Student from Cracow</h3>
 
 - C++ is the programming language that I know best and I spent most time learning. Over the course of my studies at AGH i had quite a few subects oriented on C++ and OOP principles
