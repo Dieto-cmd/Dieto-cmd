@@ -2,6 +2,10 @@
 <h3 align="center">Electronics and Telecommunication Student from Cracow</h3>
 
 - C++ is the programming language that I know best and I spent most time learning. Over the course of my studies at AGH i had quite a few subects oriented on C++ and OOP principles
+  
+- I have some experience in julia programming language over the course of the subject "Digital Signal Processing" which lasted 1 semester. Julia language is similar to python but it supports functional programming
+
+- C programming language, I am familiar with it and during one of my Projects at AGH I used it to program a simple calulator on ATMega328PB microcontroller
 
 - 🔭 I’m currently working on my engineering thesis in OpenGL
 
