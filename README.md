@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Paweł Urban</h1>
 <h3 align="center">Electronics and Telecommunication Student from Cracow</h3>
 
-- 🔭 I’m currently working on **my engineering thesis in OpenGL**
+- C++ is the programming language that I know best and I spent most time learning. Over the course of my studies at AGH i had quite a few subects oriented on C++ and OOP principles
 
-- 🐍 I’m currently learning **Machine learning (python) in the subject "Pattern Recognition"**
+- 🔭 I’m currently working on my engineering thesis in OpenGL
+
+- 🐍 I’m currently learning Machine learning (python) in the subject "Pattern Recognition"
 
 - 📫 How to reach me **pawelurban.pro@gmail.com**
 
