@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **my engineering thesis in OpenGL(C++)**
 
-- 🐍 I’m currently learning **Machine learning/AI (Python)**
-
 - 📫 How to reach me **pawelurban.pro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
