@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paweł Urban</h1>
 <h3 align="center">Electronics and Telecommunication Student from Cracow</h3>
 
-- 🔭 **Engineering thesis in graphics programming, OpenGL(C++)**
+- 🔭 Engineering thesis in graphics programming, **OpenGL(C++)**
   
 - 📝 Currently Learning **Flutter** in my free time
 
